@@ -1,0 +1,119 @@
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+ipv6: false
+unified-delay: true
+
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-filter:
+    - "*.lan"
+    - "+.ru"
+    - "+.рф"
+    - "+.msftconnecttest.com"
+    - "+.msftncsi.com"
+  default-nameserver:
+    - 77.88.8.8
+    - 223.5.5.5
+  proxy-server-nameserver:
+    - 77.88.8.8
+    - 223.5.5.5
+  nameserver:
+    - 77.88.8.8
+    - 223.5.5.5
+    - https://1.1.1.1/dns-query
+
+proxy-providers:
+  BL:
+    type: http
+    url: "https://raw.githubusercontent.com/PizdukMod/PizdukVPN/refs/heads/main/sub"
+    path: ./providers/bl.yaml
+    interval: 21600
+    health-check: {enable: true, url: "https://www.gstatic.com/generate_204", interval: 300, timeout: 8000, lazy: false}
+
+  BL-Auto:
+    type: http
+    url: "https://raw.githubusercontent.com/PizdukMod/PizdukVPN/refs/heads/main/suB.auto2"
+    path: ./providers/bl-auto.yaml
+    interval: 21600
+    health-check: {enable: true, url: "https://www.gstatic.com/generate_204", interval: 300, timeout: 8000, lazy: false}
+
+  WL:
+    type: http
+    url: "https://raw.githubusercontent.com/PizdukMod/PizdukVPN/refs/heads/main/wl"
+    path: ./providers/wl.yaml
+    interval: 21600
+    health-check: {enable: true, url: "https://www.gstatic.com/generate_204", interval: 300, timeout: 8000, lazy: false}
+
+  WL-Auto:
+    type: http
+    url: "https://raw.githubusercontent.com/PizdukMod/PizdukVPN/refs/heads/main/wl.auto2"
+    path: ./providers/wl-auto.yaml
+    interval: 21600
+    health-check: {enable: true, url: "https://www.gstatic.com/generate_204", interval: 300, timeout: 8000, lazy: false}
+
+  Mixer:
+    type: http
+    url: "https://raw.githubusercontent.com/PizdukMod/PizdukVPN/refs/heads/main/Mixer"
+    path: ./providers/mixer.yaml
+    interval: 21600
+    health-check: {enable: true, url: "https://www.gstatic.com/generate_204", interval: 300, timeout: 8000, lazy: false}
+
+proxy-groups:
+  - name: "🚀 Прокси"
+    type: select
+    proxies:
+      - "Pizduk VPN Черные списки🏴"
+      - "Pizduk VPN Белые списки🏳"
+      - "PizdukVPN Миксер"
+      - DIRECT
+
+  - name: "Pizduk VPN Черные списки🏴"
+    type: select
+    proxies:
+      - "⚡ Автовыбор ЧС"
+    use:
+      - BL
+
+  - name: "⚡ Автовыбор ЧС"
+    type: url-test
+    hidden: true
+    use:
+      - BL-Auto
+    url: "https://www.gstatic.com/generate_204"
+    interval: 300
+    timeout: 8000
+    tolerance: 50
+
+  - name: "Pizduk VPN Белые списки🏳"
+    type: select
+    proxies:
+      - "⚡ Автовыбор БС"
+    use:
+      - WL
+
+  - name: "⚡ Автовыбор БС"
+    type: url-test
+    hidden: true
+    use:
+      - WL-Auto
+    url: "https://www.gstatic.com/generate_204"
+    interval: 300
+    timeout: 8000
+    tolerance: 50
+
+  - name: "PizdukVPN Миксер"
+    type: select
+    use:
+      - Mixer
+
+rules:
+  - GEOIP,LAN,DIRECT,no-resolve
+  - DOMAIN-SUFFIX,ru,DIRECT
+  - DOMAIN-SUFFIX,рф,DIRECT
+  - DOMAIN-SUFFIX,xn--p1ai,DIRECT
+  - GEOIP,RU,DIRECT
+  - MATCH,🚀 Прокси
