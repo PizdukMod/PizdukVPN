@@ -6,9 +6,20 @@
     },
     "dns": {
       "servers": [
+        {
+          "address": "77.88.8.8",
+          "domains": [
+            "geosite:category-ru",
+            "regexp:.*\\.ru$",
+            "regexp:.*\\.su$",
+            "regexp:.*\\.xn--p1ai$"
+          ],
+          "skipFallback": true
+        },
         "1.1.1.1",
         "8.8.8.8"
-      ]
+      ],
+      "queryStrategy": "UseIP"
     },
     "observatory": {
       "subjectSelector": [
@@ -58,7 +69,8 @@
           "enabled": true,
           "destOverride": [
             "http",
-            "tls"
+            "tls",
+            "quic"
           ]
         }
       },
@@ -67,7 +79,15 @@
         "port": 10809,
         "listen": "127.0.0.1",
         "protocol": "http",
-        "settings": {}
+        "settings": {},
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls",
+            "quic"
+          ]
+        }
       }
     ],
     "outbounds": [
@@ -953,7 +973,11 @@
       {
         "tag": "block",
         "protocol": "blackhole",
-        "settings": {}
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        }
       }
     ],
     "routing": {
@@ -1001,6 +1025,95 @@
           "type": "field",
           "ip": [
             "geoip:private"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "domain": [
+            "geosite:private"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "domain": [
+            "geosite:category-ads-all",
+            "domain:doubleclick.net",
+            "domain:googleadservices.com",
+            "domain:googlesyndication.com",
+            "domain:googletagservices.com",
+            "domain:googletagmanager.com",
+            "domain:google-analytics.com",
+            "domain:adservice.google.com",
+            "domain:pagead2.googlesyndication.com",
+            "domain:googleads.g.doubleclick.net",
+            "domain:static.doubleclick.net",
+            "domain:ad.youtube.com",
+            "domain:ads.youtube.com",
+            "domain:youtube.cleverads.vn",
+            "domain:imasdk.googleapis.com",
+            "domain:admob.com",
+            "domain:app-measurement.com",
+            "domain:adnxs.com",
+            "domain:adsrvr.org",
+            "domain:criteo.com",
+            "domain:taboola.com",
+            "domain:outbrain.com",
+            "domain:moatads.com",
+            "domain:scorecardresearch.com",
+            "domain:unityads.unity3d.com",
+            "domain:applovin.com",
+            "domain:mopub.com",
+            "domain:inmobi.com",
+            "domain:adcolony.com",
+            "domain:vungle.com",
+            "domain:ironsrc.com",
+            "domain:supersonicads.com",
+            "domain:chartboost.com",
+            "domain:facebook.net",
+            "domain:an.facebook.com",
+            "domain:an.yandex.ru",
+            "domain:awaps.yandex.net",
+            "domain:mc.yandex.ru",
+            "domain:adfox.yandex.ru",
+            "domain:adfox.ru",
+            "domain:yabs.yandex.ru",
+            "domain:ad.mail.ru",
+            "domain:top-fwz1.mail.ru",
+            "domain:mytarget.my.com",
+            "domain:target.my.com",
+            "domain:ads.vk.com",
+            "domain:ad.adriver.ru",
+            "domain:begun.ru"
+          ],
+          "outboundTag": "block"
+        },
+        {
+          "type": "field",
+          "domain": [
+            "geosite:category-ru",
+            "geosite:category-gov-ru",
+            "geosite:yandex",
+            "geosite:vk",
+            "geosite:mailru",
+            "regexp:.*\\.ru$",
+            "regexp:.*\\.su$",
+            "regexp:.*\\.xn--p1ai$",
+            "regexp:.*\\.xn--p1acf$",
+            "domain:sberbank.com",
+            "domain:tinkoff.ru",
+            "domain:gosuslugi.ru",
+            "domain:2gis.com",
+            "domain:wildberries.ru",
+            "domain:ozon.ru"
+          ],
+          "outboundTag": "direct"
+        },
+        {
+          "type": "field",
+          "ip": [
+            "geoip:ru"
           ],
           "outboundTag": "direct"
         },
