@@ -23,37 +23,55 @@
     },
     "observatory": {
       "subjectSelector": [
-        "🇷🇺_Телега",
-        "🇬🇧_Британия_Белые_списки_🏳️",
-        "🇷🇺_Россия_IP🏳️",
-        "🇱🇹_Литва_🏳️",
-        "🇳🇱_Нидерланды_🏳️",
-        "🇩🇪_Германия_🏳️",
-        "🇧🇪_Бельгия_—_Heverlee",
-        "🇧🇾_Беларусь_—_Minsk",
-        "🇩🇪_Германия_—_Frankfurt_am_Main",
-        "🇪🇸_Испания_—_Barcelona",
-        "🇪🇸_Испания_—_Barcelona_2",
-        "🇪🇸_Испания_—_Barcelona_3",
-        "🇱🇻_Латвия_—_Riga",
-        "🇱🇻_Латвия_—_Riga_2",
-        "🇱🇻_Латвия_—_Riga_3",
-        "🇱🇻_Латвия_—_Riga_4",
-        "🇱🇻_Латвия_—_Riga_5",
-        "🇳🇱_Нидерланды_—_Amsterdam",
-        "🇳🇱_Нидерланды_—_Amsterdam_2",
-        "🇳🇱_Нидерланды_—_Amsterdam_3",
-        "🇳🇱_Нидерланды_—_Amsterdam_4",
-        "🇳🇱_Нидерланды_—_Amsterdam_5",
-        "🇳🇱_Нидерланды_—_Amsterdam_6",
-        "🇵🇱_Польша_—_Warsaw",
-        "🇷🇺_Россия_—_Moscow",
-        "🇷🇺_Россия_—_Moscow_2",
-        "🇸🇪_Швеция_—_Stockholm",
-        "🇸🇪_Швеция_—_Stockholm_2",
-        "🇺🇸_США_—_Chicago",
-        "🇺🇸_США_—_Chicago_2",
-        "🇺🇸_США_—_Chicago_3"
+        "🇺🇸_США_Gemini_🤖",
+        "🇳🇱_Нидерланды_⚡",
+        "🇫🇷_Франция_⚡_Youtube_📺",
+        "🇸🇪_⚡_Швеция_⚡_YT_📺_AI🤖",
+        "🇩🇪_Германия_⚡_Gemini_🤖",
+        "🇫🇮_Финляндия_⚡",
+        "🇪🇸_Испания_⚡_Gemini_🤖",
+        "🇫🇮_Финляндия_⚡_Gemini_🤖",
+        "🇫🇮_Финляндия_Youtube_📺",
+        "🇫🇮_Финляндия_⚡_2",
+        "🇫🇮_Финляндия_⚡_3",
+        "🇷🇺_->_🇦🇱_AL_—_Тирана_⛄_🦌",
+        "🇲🇩_MD_—_Центр_(сектор_Кишинёва)_🧊_🌨️",
+        "🇦🇲_Армения_—_Ереван_🧊_🌨️",
+        "🇧🇾_Беларусь_—_Минск_🧊_📶_🔔",
+        "🇯🇵_->_🇧🇷_Бразилия_—_Агломерация_Сан-Паулу_⛄_🔔",
+        "🇬🇧_Британия_—_Слау_⛄_🔔",
+        "🇩🇪_Германия_—_Франкфурт_⛄_🔔",
+        "🇩🇪_Германия_—_Франкфурт_⛄_📶_⭐",
+        "🇺🇦_->_🇩🇪_Германия_—_Франкфурт_🧊_🦌",
+        "🇭🇰_Гонконг_⛄_🧸",
+        "🇪🇸_Испания_—_Мадрид_⛄_🌨️",
+        "🇪🇸_Испания_—_Ойо-де-Мансанарес_🧊_📶_🧸",
+        "🇮🇹_Италия_—_Милан_⛄_📶_🦌",
+        "🇷🇺_->_🇰🇿_Казахстан_—_Астана_⛄_🦌",
+        "🇷🇺_->_🇨🇦_Канада_—_Монреаль_⛄_⭐",
+        "🇷🇺_->_🇳🇱_Нидерланды_—_Эйндховен_⛄_🧤",
+        "🇷🇺_->_🇳🇱_Нидерланды_—_Эйндховен_⛄_🧤_2",
+        "🇷🇺_->_🇳🇱_Нидерланды_—_Амстердам_⛄_🦌",
+        "🇷🇺_->_🇳🇱_Нидерланды_—_Амстердам_⛄_🧤",
+        "🇳🇱_Нидерланды_—_Алкмар_⛄_🌨️",
+        "🇳🇱_Нидерланды_—_Амстердам_⛄_📶_⭐",
+        "🇳🇱_Нидерланды_—_Амстердам_🧊_📶_⭐",
+        "🇳🇱_Нидерланды_—_Амстердам_🧊_🔔",
+        "🇳🇱_Нидерланды_—_Амстердам_🧊_📶_⭐_2",
+        "🇳🇱_Нидерланды_—_Амстердам_🧊_📶_🔔",
+        "🇮🇪_->_🇳🇱_Нидерланды_—_Керкраде_🧊_🦌",
+        "🇷🇴_Румыния_—_Бухарест_⛄_🌨️",
+        "🇨🇾_->_🇺🇸_США_—_Чикаго_⛄_🦌",
+        "🇺🇸_США_—_Вашингтон_⛄_🌨️",
+        "🇷🇺_->_🇺🇸_США_—_Даллас_⛄_📶_🧤",
+        "🇺🇸_США_—_Вашингтон_🧊_🌨️",
+        "🇹🇷_->_🇺🇸_США_—_Секокус_🧊_🔔",
+        "🇸🇬_Сингапур_⛄_🔔",
+        "🇸🇬_Сингапур_⛄_🔔_2",
+        "🇷🇺_->_🇸🇬_Сингапур_⛄_🧤",
+        "🇷🇺_->_🇨🇭_Швейцария_—_Женева_⛄_⭐",
+        "🇩🇪_->_🇸🇪_Швеция_—_Стокгольм_🧊_🌨️",
+        "🇪🇪_Эстония_—_Таллин_⛄_🦌"
       ],
       "probeUrl": "https://www.gstatic.com/generate_204",
       "probeInterval": "1m",
@@ -96,7 +114,7 @@
     ],
     "outbounds": [
       {
-        "tag": "🇷🇺_Телега",
+        "tag": "🇷🇺_Телеграм_❄️_(telegram-only)",
         "protocol": "vless",
         "settings": {
           "vnext": [
@@ -116,30 +134,60 @@
           "network": "xhttp",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "tgg.fastcon.cc",
+            "serverName": "tgp.fastcon.cc",
             "fingerprint": "firefox",
             "alpn": [
               "h2"
             ]
           },
           "xhttpSettings": {
-            "path": "/clips/hls/v4/",
-            "host": "tgg.fastcon.cc",
+            "path": "/storage/blob/v2/",
+            "host": "tgp.fastcon.cc",
             "mode": "packet-up"
           }
         }
       },
       {
-        "tag": "🇬🇧_Британия_Белые_списки_🏳️",
+        "tag": "🇺🇸_США_Gemini_🤖",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "cdn3.aleqseivpn.site",
+              "address": "195.209.209.64",
               "port": 443,
               "users": [
                 {
-                  "id": "e2a1c9f4-3b7d-4e6a-9c2f-8a1d5f6b7c9e",
+                  "id": "9df9ee1a-0671-4c6c-93c7-65598fb946f7",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ruhsds744.gangtype.com",
+            "fingerprint": "firefox",
+            "publicKey": "f8nkGMN6JDENHKvHrFYabx4JqSMSAZGS0lyc-KuagnQ",
+            "shortId": "f3166ffa363ceaef",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇳🇱_Нидерланды_⚡",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "vle-nl29.plant-market.org",
+              "port": 443,
+              "users": [
+                {
+                  "id": "b35bb507-15c9-486e-a491-b2fda97191c7",
                   "encryption": "none"
                 }
               ]
@@ -150,49 +198,79 @@
           "network": "xhttp",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "cdn3.aleqseivpn.site",
-            "fingerprint": "chrome"
+            "serverName": "vle-nl29.plant-market.org",
+            "fingerprint": "firefox",
+            "alpn": [
+              "h2",
+              "http/1.1"
+            ]
           },
           "xhttpSettings": {
-            "path": "/api/v1/update",
+            "path": "/api/v1/sync",
+            "host": "vle-nl29.plant-market.org",
             "mode": "packet-up"
           }
         }
       },
       {
-        "tag": "🇷🇺_Россия_IP🏳️",
+        "tag": "🇫🇷_Франция_⚡_Youtube_📺",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "185.178.208.167",
+              "address": "144.31.214.249",
               "port": 443,
               "users": [
                 {
-                  "id": "c2b17066-5386-0001-803b-5e652c0528f9",
-                  "encryption": "none"
+                  "id": "a38e3651-a36c-445d-87e1-336a7855edb4",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
                 }
               ]
             }
           ]
         },
         "streamSettings": {
-          "network": "ws",
+          "network": "tcp",
           "security": "tls",
           "tlsSettings": {
-            "serverName": "trx.tools",
-            "fingerprint": "safari"
-          },
-          "wsSettings": {
-            "path": "/session",
-            "headers": {
-              "Host": "api.14887277.xyz"
-            }
+            "serverName": "fra01.deflink.net",
+            "fingerprint": "firefox"
           }
         }
       },
       {
-        "tag": "🇱🇹_Литва_🏳️",
+        "tag": "🇸🇪_⚡_Швеция_⚡_YT_📺_AI🤖",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "swcn22.mncdn.ru",
+              "port": 443,
+              "users": [
+                {
+                  "id": "879a89ca-d2e5-4d02-9159-8eb504a3963b",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "swcn22.mncdn.ru",
+            "fingerprint": "firefox",
+            "publicKey": "F78z_YmO8pTYbzydjIhl_QvY3a8TWAFIFEuMvR_wpB0",
+            "shortId": "a91f3c7d2e684b05",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇩🇪_Германия_⚡_Gemini_🤖",
         "protocol": "vless",
         "settings": {
           "vnext": [
@@ -222,77 +300,16 @@
         }
       },
       {
-        "tag": "🇳🇱_Нидерланды_🏳️",
+        "tag": "🇫🇮_Финляндия_⚡",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "31.177.111.107",
+              "address": "201.34.130.156",
               "port": 443,
               "users": [
                 {
-                  "id": "ef5a57c7-84d5-4f86-b99c-875a16da485f",
-                  "encryption": "none"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "ws",
-          "security": "tls",
-          "tlsSettings": {
-            "serverName": "q075gi2cms.schoolbag.top",
-            "fingerprint": "chrome"
-          },
-          "wsSettings": {
-            "path": "/collector/runtime/channel/open",
-            "headers": {
-              "Host": "q075gi2cms.schoolbag.top"
-            }
-          }
-        }
-      },
-      {
-        "tag": "🇩🇪_Германия_🏳️",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "188.225.78.178",
-              "port": 443,
-              "users": [
-                {
-                  "id": "25ac78e7-6d1d-4c9a-a450-c01a4871769f",
-                  "encryption": "none"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "grpc",
-          "security": "tls",
-          "tlsSettings": {
-            "serverName": "hemlock.elvano.website",
-            "fingerprint": "chrome"
-          },
-          "grpcSettings": {
-            "serviceName": "glush.de2.v1"
-          }
-        }
-      },
-      {
-        "tag": "🇧🇪_Бельгия_—_Heverlee",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "146.103.42.26",
-              "port": 9543,
-              "users": [
-                {
-                  "id": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6",
+                  "id": "2b865812-8721-48b7-9108-758dfde4d606",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -304,25 +321,267 @@
           "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "storage.yandexcloud.net",
-            "fingerprint": "ios",
-            "publicKey": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc",
-            "shortId": "123abcdf",
+            "serverName": "remna-msk14.mymigrantik.online",
+            "fingerprint": "firefox",
+            "publicKey": "jzcZuDi3GNfqlxunPAi0Nev7KQ9n8T0XNzq2_1evJB4",
+            "shortId": "043574571ddbc16b",
             "spiderX": ""
           }
         }
       },
       {
-        "tag": "🇧🇾_Беларусь_—_Minsk",
+        "tag": "🇪🇸_Испания_⚡_Gemini_🤖",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "178.172.227.228",
+              "address": "186.246.8.13",
+              "port": 443,
+              "users": [
+                {
+                  "id": "00799b08-1090-4ed3-bec0-0fa26816a703",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "wnl.bootless.ru",
+            "fingerprint": "chrome"
+          },
+          "xhttpSettings": {
+            "path": "/api/v2/stream",
+            "mode": "auto"
+          }
+        }
+      },
+      {
+        "tag": "🇫🇮_Финляндия_⚡_Gemini_🤖",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "hzkjm.klyck.online",
+              "port": 443,
+              "users": [
+                {
+                  "id": "de32225b-374c-4a6a-830e-7c4e367fcfb5",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "hzkjm.klyck.online",
+            "fingerprint": "firefox",
+            "publicKey": "pdyae3nJy_oGSKS6bcKDRujDmvcJuu31n6DOkVYvvlw",
+            "shortId": "635d40276db3b2de",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇫🇮_Финляндия_Youtube_📺",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "one.alpheratzz.org",
+              "port": 8443,
+              "users": [
+                {
+                  "id": "0173d52e-8e1b-4681-831e-11529677b72f",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "api-6b04608f.adhil.uk",
+            "fingerprint": "safari",
+            "alpn": [
+              "h2"
+            ]
+          }
+        }
+      },
+      {
+        "tag": "🇫🇮_Финляндия_⚡_2",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "31.130.155.26",
+              "port": 443,
+              "users": [
+                {
+                  "id": "2b865812-8721-48b7-9108-758dfde4d606",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "remna-msk13.mymigrantik.online",
+            "fingerprint": "firefox",
+            "publicKey": "1GaeO1HjMqp2mnP60-SaXTkV_3XgkeRRGcnHq85E5ng",
+            "shortId": "72178b7dfde112fd",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇫🇮_Финляндия_⚡_3",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "201.34.130.156",
+              "port": 443,
+              "users": [
+                {
+                  "id": "2b865812-8721-48b7-9108-758dfde4d606",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "remna-msk14.mymigrantik.online",
+            "fingerprint": "firefox",
+            "publicKey": "jzcZuDi3GNfqlxunPAi0Nev7KQ9n8T0XNzq2_1evJB4",
+            "shortId": "043574571ddbc16b",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇷🇺_->_🇦🇱_AL_—_Тирана_⛄_🦌",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "194.53.175.27",
+              "port": 443,
+              "users": [
+                {
+                  "id": "11d14aed-3d44-4bb2-b9c0-24e661589e5a",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ald1.tunnely.space",
+            "fingerprint": "firefox",
+            "publicKey": "pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM",
+            "shortId": "2e40144ddc07e8e1",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇲🇩_MD_—_Центр_(сектор_Кишинёва)_🧊_🌨️",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "217.156.123.246",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f8cb3c89-32af-4255-bebc-d90aad175069",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "mda.899themes.pro",
+            "fingerprint": "firefox",
+            "publicKey": "pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ",
+            "shortId": "27350908de933e09",
+            "spiderX": ""
+          },
+          "grpcSettings": {
+            "serviceName": "neurex"
+          }
+        }
+      },
+      {
+        "tag": "🇦🇲_Армения_—_Ереван_🧊_🌨️",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "91.195.255.172",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f8cb3c89-32af-4255-bebc-d90aad175069",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "amb.899themes.pro",
+            "fingerprint": "firefox",
+            "publicKey": "pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ",
+            "shortId": "27350908de933e09",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇧🇾_Беларусь_—_Минск_🧊_📶_🔔",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "178.172.227.124",
               "port": 10444,
               "users": [
                 {
-                  "id": "b6e5dc56-836f-48c1-9163-b0b0b43b647d",
+                  "id": "1af36694-b548-4b18-89a0-bc076eab4ed7",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -335,7 +594,7 @@
           "security": "reality",
           "realitySettings": {
             "serverName": "ads.x5.ru",
-            "fingerprint": "firefox",
+            "fingerprint": "safari",
             "publicKey": "0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo",
             "shortId": "8debcf36f1cc69ff",
             "spiderX": ""
@@ -343,7 +602,100 @@
         }
       },
       {
-        "tag": "🇩🇪_Германия_—_Frankfurt_am_Main",
+        "tag": "🇯🇵_->_🇧🇷_Бразилия_—_Агломерация_Сан-Паулу_⛄_🔔",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "dddz-4-z.473221.xyz",
+              "port": 33161,
+              "users": [
+                {
+                  "id": "5807f1c4-b50e-4ec0-8d01-274045da0da5",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "v1-dy.ixigua.com",
+            "fingerprint": "firefox",
+            "publicKey": "BECARsUsTAoGzHFcGEquyFHKnI_LVL5FL6s1jZbLhVk",
+            "shortId": "6dbd86dc61ccb46d",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇬🇧_Британия_—_Слау_⛄_🔔",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "api.mediasvyaz.cc",
+              "port": 443,
+              "users": [
+                {
+                  "id": "2cc030ea-e0e2-4474-aaab-31c4ee7abf00",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "api.mediasvyaz.cc",
+            "fingerprint": "firefox",
+            "publicKey": "r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs",
+            "shortId": "a8",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇩🇪_Германия_—_Франкфурт_⛄_🔔",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "95.85.232.83",
+              "port": 2087,
+              "users": [
+                {
+                  "id": "549766c3-fa5f-471e-8031-ffc1f8d5064f",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "trips.blog-forme.ru",
+            "fingerprint": "edge",
+            "publicKey": "mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY",
+            "shortId": "3258252d44113e23",
+            "spiderX": ""
+          },
+          "xhttpSettings": {
+            "path": "/v2/sync/6e9367",
+            "host": "trips.blog-forme.ru"
+          }
+        }
+      },
+      {
+        "tag": "🇩🇪_Германия_—_Франкфурт_⛄_📶_⭐",
         "protocol": "vless",
         "settings": {
           "vnext": [
@@ -373,117 +725,16 @@
         }
       },
       {
-        "tag": "🇪🇸_Испания_—_Barcelona",
+        "tag": "🇺🇦_->_🇩🇪_Германия_—_Франкфурт_🧊_🦌",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "es-04.avroraservice.online",
+              "address": "194.113.35.220",
               "port": 8443,
               "users": [
                 {
-                  "id": "ab53f3b6-7962-4bc1-90f6-8420767b22a8",
-                  "encryption": "none"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "xhttp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "cdn-es.cahmes.space",
-            "fingerprint": "firefox",
-            "publicKey": "dSH20qQm9nyDIN1gI1KyUjtVOilHh0wG8t-Xw1iz638",
-            "shortId": "01f0a0809d05552b",
-            "spiderX": ""
-          },
-          "xhttpSettings": {
-            "path": "/xhttp",
-            "host": "es-04.avroraservice.online",
-            "mode": "stream-one"
-          }
-        }
-      },
-      {
-        "tag": "🇪🇸_Испания_—_Barcelona_2",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "es-04.avroraservice.online",
-              "port": 8443,
-              "users": [
-                {
-                  "id": "ab53f3b6-7962-4bc1-90f6-8420767b22a8",
-                  "encryption": "none"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "xhttp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "cdn-es.cahmes.space",
-            "fingerprint": "firefox",
-            "publicKey": "dSH20qQm9nyDIN1gI1KyUjtVOilHh0wG8t-Xw1iz638",
-            "shortId": "01f0a0809d05552b",
-            "spiderX": ""
-          },
-          "xhttpSettings": {
-            "path": "/xhttp",
-            "host": "es-04.avroraservice.online"
-          }
-        }
-      },
-      {
-        "tag": "🇪🇸_Испания_—_Barcelona_3",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "es-04.avroraservice.online",
-              "port": 8443,
-              "users": [
-                {
-                  "id": "ab53f3b6-7962-4bc1-90f6-8420767b22a8",
-                  "encryption": "none"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "xhttp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "cdn-es.cahmes.space",
-            "fingerprint": "firefox",
-            "publicKey": "dSH20qQm9nyDIN1gI1KyUjtVOilHh0wG8t-Xw1iz638",
-            "shortId": "01f0a0809d05552b",
-            "spiderX": ""
-          },
-          "xhttpSettings": {
-            "path": "/xhttp",
-            "host": "cdn-es.cahmes.space",
-            "mode": "stream-one"
-          }
-        }
-      },
-      {
-        "tag": "🇱🇻_Латвия_—_Riga",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "185.81.129.162",
-              "port": 443,
-              "users": [
-                {
-                  "id": "13908eee-ea78-4363-adab-6cca98ecfce3",
+                  "id": "33b980b9-fbe0-457f-9089-67050af1fb7b",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -495,308 +746,377 @@
           "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "lt.3apes.pro",
-            "fingerprint": "firefox",
-            "publicKey": "q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ",
-            "shortId": "",
-            "spiderX": ""
-          }
-        }
-      },
-      {
-        "tag": "🇱🇻_Латвия_—_Riga_2",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "185.81.129.197",
-              "port": 443,
-              "users": [
-                {
-                  "id": "13908eee-ea78-4363-adab-6cca98ecfce3",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "lites.3apes.pro",
-            "fingerprint": "firefox",
-            "publicKey": "q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ",
-            "shortId": "",
-            "spiderX": ""
-          }
-        }
-      },
-      {
-        "tag": "🇱🇻_Латвия_—_Riga_3",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "185.81.129.161",
-              "port": 443,
-              "users": [
-                {
-                  "id": "13908eee-ea78-4363-adab-6cca98ecfce3",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "lite.3apes.pro",
-            "fingerprint": "firefox",
-            "publicKey": "q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ",
-            "shortId": "",
-            "spiderX": ""
-          }
-        }
-      },
-      {
-        "tag": "🇱🇻_Латвия_—_Riga_4",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "lite.3apes.pro",
-              "port": 443,
-              "users": [
-                {
-                  "id": "13908eee-ea78-4363-adab-6cca98ecfce3",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "lite.3apes.pro",
-            "fingerprint": "chrome",
-            "publicKey": "q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ",
-            "shortId": "",
-            "spiderX": ""
-          }
-        }
-      },
-      {
-        "tag": "🇱🇻_Латвия_—_Riga_5",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "lites.3apes.pro",
-              "port": 443,
-              "users": [
-                {
-                  "id": "13908eee-ea78-4363-adab-6cca98ecfce3",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "lites.3apes.pro",
-            "fingerprint": "chrome",
-            "publicKey": "q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ",
-            "shortId": "",
-            "spiderX": ""
-          }
-        }
-      },
-      {
-        "tag": "🇳🇱_Нидерланды_—_Amsterdam",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "194.85.249.29",
-              "port": 443,
-              "users": [
-                {
-                  "id": "b7791707-83d9-444b-9d05-f5c99e90acd4",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "n1.sklserv.com",
-            "fingerprint": "firefox",
-            "publicKey": "GqhAFTkRQ1HkNXyF2dUl3wUzJDHfgx3O9qocK01SLWU",
-            "shortId": "38e0c84b27d01e0d",
-            "spiderX": ""
-          }
-        }
-      },
-      {
-        "tag": "🇳🇱_Нидерланды_—_Amsterdam_2",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "132.243.242.246",
-              "port": 9543,
-              "users": [
-                {
-                  "id": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "storage.yandexcloud.net",
-            "fingerprint": "ios",
-            "publicKey": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc",
-            "shortId": "123abcdf",
-            "spiderX": ""
-          }
-        }
-      },
-      {
-        "tag": "🇳🇱_Нидерланды_—_Amsterdam_3",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "212.192.3.113",
-              "port": 9543,
-              "users": [
-                {
-                  "id": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "storage.yandexcloud.net",
-            "fingerprint": "firefox",
-            "publicKey": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc",
-            "shortId": "123abcdf",
-            "spiderX": ""
-          }
-        }
-      },
-      {
-        "tag": "🇳🇱_Нидерланды_—_Amsterdam_4",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "195.133.93.179",
-              "port": 9543,
-              "users": [
-                {
-                  "id": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "storage.yandexcloud.net",
-            "fingerprint": "firefox",
-            "publicKey": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc",
-            "shortId": "123abcdf",
-            "spiderX": ""
-          }
-        }
-      },
-      {
-        "tag": "🇳🇱_Нидерланды_—_Amsterdam_5",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "212.192.3.237",
-              "port": 9543,
-              "users": [
-                {
-                  "id": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "storage.yandexcloud.net",
-            "fingerprint": "safari",
-            "publicKey": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc",
-            "shortId": "123abcdf",
-            "spiderX": ""
-          }
-        }
-      },
-      {
-        "tag": "🇳🇱_Нидерланды_—_Amsterdam_6",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "195.133.93.179",
-              "port": 9543,
-              "users": [
-                {
-                  "id": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6",
-                  "encryption": "none",
-                  "flow": "xtls-rprx-vision"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "storage.yandexcloud.net",
+            "serverName": "wf8.sondore.com",
             "fingerprint": "edge",
+            "publicKey": "6wEcjCOgl-LIN9otQ_UJgRQYLFlnKTEjdYnnqjj5cRY",
+            "shortId": "911debda80e7b51b",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇭🇰_Гонконг_⛄_🧸",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "200.181.82.74",
+              "port": 6443,
+              "users": [
+                {
+                  "id": "391a32c6-084c-4d61-8e8d-472678021dac",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "download.amd.com",
+            "fingerprint": "firefox",
+            "publicKey": "9XjT5lRJlUeqtPnPy1j2WFXIWwUvdBnB4dbt1f7EXmY",
+            "shortId": "f7ef8c6fe14e83bd",
+            "spiderX": ""
+          },
+          "grpcSettings": {
+            "serviceName": "/api/v1/update"
+          }
+        }
+      },
+      {
+        "tag": "🇪🇸_Испания_—_Мадрид_⛄_🌨️",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "185.200.244.37",
+              "port": 443,
+              "users": [
+                {
+                  "id": "7ce93cef-119d-4cba-9d9d-da0056ba979c",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "es1.green-tg.com",
+            "fingerprint": "firefox",
+            "publicKey": "EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls",
+            "shortId": "0bf13fb706784403",
+            "spiderX": ""
+          },
+          "xhttpSettings": {
+            "path": "/api/v2/7d94497a",
+            "host": "185.200.244.37"
+          }
+        }
+      },
+      {
+        "tag": "🇪🇸_Испания_—_Ойо-де-Мансанарес_🧊_📶_🧸",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "179.255.189.18",
+              "port": 443,
+              "users": [
+                {
+                  "id": "148917bd-0b37-42b8-98f4-aa94ca73e75a",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "travel.yandex.ru",
+            "fingerprint": "firefox",
+            "publicKey": "tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0",
+            "shortId": "76834511",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇮🇹_Италия_—_Милан_⛄_📶_🦌",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "194.180.207.145",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f8cb3c89-32af-4255-bebc-d90aad175069",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ita.899themes.pro",
+            "fingerprint": "firefox",
+            "publicKey": "pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ",
+            "shortId": "27350908de933e09",
+            "spiderX": ""
+          },
+          "grpcSettings": {
+            "serviceName": "neurex"
+          }
+        }
+      },
+      {
+        "tag": "🇷🇺_->_🇰🇿_Казахстан_—_Астана_⛄_🦌",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "201.34.136.78",
+              "port": 443,
+              "users": [
+                {
+                  "id": "42c83523-9f96-41b2-82d6-2edb71a4ac19",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "fjn2vd4dgxb6.dynarix-node41.sbs",
+            "fingerprint": "firefox",
+            "publicKey": "fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA",
+            "shortId": "",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇷🇺_->_🇨🇦_Канада_—_Монреаль_⛄_⭐",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "92.246.138.161",
+              "port": 443,
+              "users": [
+                {
+                  "id": "42c83523-9f96-41b2-82d6-2edb71a4ac19",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "q88k7v7gi0pg.img-assets.world",
+            "fingerprint": "edge",
+            "publicKey": "jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk",
+            "shortId": "",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇷🇺_->_🇳🇱_Нидерланды_—_Эйндховен_⛄_🧤",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "141.8.198.29",
+              "port": 443,
+              "users": [
+                {
+                  "id": "9df9ee1a-0671-4c6c-93c7-65598fb946f7",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "rusbox634.grizpliz.am",
+            "fingerprint": "firefox",
+            "publicKey": "xPwj2JRpRX0EhUmiJeuii1iMaX1iT2Smq0k5Pyu3hEk",
+            "shortId": "7ce3580ea68cc329",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇷🇺_->_🇳🇱_Нидерланды_—_Эйндховен_⛄_🧤_2",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "185.185.71.168",
+              "port": 443,
+              "users": [
+                {
+                  "id": "9df9ee1a-0671-4c6c-93c7-65598fb946f7",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "rusbox745.gangtype.com",
+            "fingerprint": "firefox",
+            "publicKey": "RZPobWJXwesTvFGCPTeE40Oc0AWFj0fmv0UDeJFLIhY",
+            "shortId": "bf83ed9220c59bc3",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇷🇺_->_🇳🇱_Нидерланды_—_Амстердам_⛄_🦌",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "84.54.44.117",
+              "port": 443,
+              "users": [
+                {
+                  "id": "9df9ee1a-0671-4c6c-93c7-65598fb946f7",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "rumicro642.richhoodfoc.com",
+            "fingerprint": "chrome",
+            "publicKey": "fPvZxeP0GErdI22fbEAqbMaz-QMumNIDzBNgKZmRsWY",
+            "shortId": "a7b12f3265f97f4a",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇷🇺_->_🇳🇱_Нидерланды_—_Амстердам_⛄_🧤",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "178.236.240.66",
+              "port": 443,
+              "users": [
+                {
+                  "id": "9df9ee1a-0671-4c6c-93c7-65598fb946f7",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ruae633.jointaction.am",
+            "fingerprint": "firefox",
+            "publicKey": "2BnTTOS3HvvIbNDEHPrhwnpPBc1HB7gEHkmQfUATkCw",
+            "shortId": "c0a60e2240745383",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇳🇱_Нидерланды_—_Алкмар_⛄_🌨️",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "5.255.99.21",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f8cb3c89-32af-4255-bebc-d90aad175069",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "nlc.899themes.pro",
+            "fingerprint": "firefox",
+            "publicKey": "pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ",
+            "shortId": "27350908de933e09",
+            "spiderX": ""
+          },
+          "grpcSettings": {
+            "serviceName": "neurex"
+          }
+        }
+      },
+      {
+        "tag": "🇳🇱_Нидерланды_—_Амстердам_⛄_📶_⭐",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "212.192.3.63",
+              "port": 9543,
+              "users": [
+                {
+                  "id": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "storage.yandexcloud.net",
+            "fingerprint": "chrome",
             "publicKey": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc",
             "shortId": "123abcdf",
             "spiderX": ""
@@ -804,48 +1124,16 @@
         }
       },
       {
-        "tag": "🇵🇱_Польша_—_Warsaw",
+        "tag": "🇳🇱_Нидерланды_—_Амстердам_🧊_📶_⭐",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "31.77.56.68",
-              "port": 2052,
+              "address": "132.243.242.216",
+              "port": 9543,
               "users": [
                 {
-                  "id": "8f154051-5b60-4e04-8880-a416c133a61b",
-                  "encryption": "none"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "grpc",
-          "security": "reality",
-          "realitySettings": {
-            "serverName": "cdn.ozon.ru",
-            "fingerprint": "firefox",
-            "publicKey": "4UA4nr9RIIEOC6ZDK5AHkj5v0Q-e3_jNeVI5cIgPSg4",
-            "shortId": "24",
-            "spiderX": ""
-          },
-          "grpcSettings": {
-            "serviceName": "plogrpc"
-          }
-        }
-      },
-      {
-        "tag": "🇷🇺_Россия_—_Moscow",
-        "protocol": "vless",
-        "settings": {
-          "vnext": [
-            {
-              "address": "84.23.52.120",
-              "port": 34443,
-              "users": [
-                {
-                  "id": "af8bd147-8e6d-4bd9-a93c-243b42c825b5",
+                  "id": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -857,25 +1145,25 @@
           "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "ru.sparxiecn.com",
-            "fingerprint": "firefox",
-            "publicKey": "NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk",
-            "shortId": "ab532d3308daa67b",
+            "serverName": "storage.yandexcloud.net",
+            "fingerprint": "chrome",
+            "publicKey": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc",
+            "shortId": "123abcdf",
             "spiderX": ""
           }
         }
       },
       {
-        "tag": "🇷🇺_Россия_—_Moscow_2",
+        "tag": "🇳🇱_Нидерланды_—_Амстердам_🧊_🔔",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "ru1.japancase.site",
+              "address": "netherlands.vpnserverhub.com",
               "port": 443,
               "users": [
                 {
-                  "id": "db80088c-32a1-4cb8-a907-0f3cb7844152",
+                  "id": "93ad7771-2a98-4933-8001-3b0c20fa88dd",
                   "encryption": "none",
                   "flow": "xtls-rprx-vision"
                 }
@@ -887,57 +1175,118 @@
           "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "ru1.japancase.site",
+            "serverName": "yahoo.com",
             "fingerprint": "chrome",
-            "publicKey": "SiwxBWpYrdcS70DDnr0yBrTgpJY-MiqKiOs3_yjK1Cc",
-            "shortId": "5b555442d5975d6b",
+            "publicKey": "y8-hfUvs9-MScp_tjMFi5LKuULGmnodHbI5Q_sTk_A0",
+            "shortId": "",
             "spiderX": ""
           }
         }
       },
       {
-        "tag": "🇸🇪_Швеция_—_Stockholm",
+        "tag": "🇳🇱_Нидерланды_—_Амстердам_🧊_📶_⭐_2",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "185.86.145.78",
-              "port": 443,
+              "address": "195.133.93.179",
+              "port": 9543,
               "users": [
                 {
-                  "id": "88e79aa6-f431-4453-8dcc-652a0c747198",
-                  "encryption": "none"
+                  "id": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
                 }
               ]
             }
           ]
         },
         "streamSettings": {
-          "network": "grpc",
+          "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "emberworks.cloud",
+            "serverName": "storage.yandexcloud.net",
             "fingerprint": "firefox",
-            "publicKey": "2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4",
-            "shortId": "ea322b8b5b015812",
+            "publicKey": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc",
+            "shortId": "123abcdf",
             "spiderX": ""
-          },
-          "grpcSettings": {
-            "serviceName": ""
           }
         }
       },
       {
-        "tag": "🇸🇪_Швеция_—_Stockholm_2",
+        "tag": "🇳🇱_Нидерланды_—_Амстердам_🧊_📶_🔔",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "185.86.145.78",
+              "address": "leviko-nl9472.shopingggg.ir",
+              "port": 9543,
+              "users": [
+                {
+                  "id": "920b3cd9-4f82-4669-bbd2-d4a28b9052c6",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "storage.yandexcloud.net",
+            "fingerprint": "chrome",
+            "publicKey": "M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc",
+            "shortId": "123abcdf",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇮🇪_->_🇳🇱_Нидерланды_—_Керкраде_🧊_🦌",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "bfb3f7x.nl13.h1clayd.click",
               "port": 443,
               "users": [
                 {
-                  "id": "88e79aa6-f431-4453-8dcc-652a0c747198",
+                  "id": "57a3fb3c-5788-4777-933e-882dd22f5b82",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "bfb3f7x.nl13.h1clayd.click",
+            "fingerprint": "edge",
+            "publicKey": "hLLpX2tIyVWm1rIVVXa_UsCjSOA_p-vIJZNIuPel6RA",
+            "shortId": "679c0122c53ebd6d",
+            "spiderX": ""
+          },
+          "xhttpSettings": {
+            "path": "/bde5f4554bd4",
+            "mode": "auto"
+          }
+        }
+      },
+      {
+        "tag": "🇷🇴_Румыния_—_Бухарест_⛄_🌨️",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "46.28.67.208",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f8cb3c89-32af-4255-bebc-d90aad175069",
                   "encryption": "none"
                 }
               ]
@@ -948,19 +1297,19 @@
           "network": "grpc",
           "security": "reality",
           "realitySettings": {
-            "serverName": "emberworks.cloud",
-            "fingerprint": "chrome",
-            "publicKey": "2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4",
-            "shortId": "ea322b8b5b015812",
+            "serverName": "roa.899themes.pro",
+            "fingerprint": "firefox",
+            "publicKey": "pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ",
+            "shortId": "27350908de933e09",
             "spiderX": ""
           },
           "grpcSettings": {
-            "serviceName": ""
+            "serviceName": "neurex"
           }
         }
       },
       {
-        "tag": "🇺🇸_США_—_Chicago",
+        "tag": "🇨🇾_->_🇺🇸_США_—_Чикаго_⛄_🦌",
         "protocol": "vless",
         "settings": {
           "vnext": [
@@ -993,70 +1342,309 @@
         }
       },
       {
-        "tag": "🇺🇸_США_—_Chicago_2",
+        "tag": "🇺🇸_США_—_Вашингтон_⛄_🌨️",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "us-05.avroraservice.online",
-              "port": 8443,
+              "address": "98.142.251.69",
+              "port": 443,
               "users": [
                 {
-                  "id": "ab53f3b6-7962-4bc1-90f6-8420767b22a8",
-                  "encryption": "none"
+                  "id": "f8cb3c89-32af-4255-bebc-d90aad175069",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
                 }
               ]
             }
           ]
         },
         "streamSettings": {
-          "network": "xhttp",
+          "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "cdn-us.cahmes.space",
+            "serverName": "usc.899themes.pro",
             "fingerprint": "firefox",
-            "publicKey": "KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k",
-            "shortId": "6bd33a75ebc0f26e",
+            "publicKey": "pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ",
+            "shortId": "27350908de933e09",
             "spiderX": ""
-          },
-          "xhttpSettings": {
-            "path": "/xhttp",
-            "host": "cdn-us.cahmes.space",
-            "mode": "stream-one"
           }
         }
       },
       {
-        "tag": "🇺🇸_США_—_Chicago_3",
+        "tag": "🇷🇺_->_🇺🇸_США_—_Даллас_⛄_📶_🧤",
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "us-05.avroraservice.online",
-              "port": 8443,
+              "address": "88.210.34.18",
+              "port": 443,
               "users": [
                 {
-                  "id": "ab53f3b6-7962-4bc1-90f6-8420767b22a8",
-                  "encryption": "none"
+                  "id": "9df9ee1a-0671-4c6c-93c7-65598fb946f7",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
                 }
               ]
             }
           ]
         },
         "streamSettings": {
-          "network": "xhttp",
+          "network": "tcp",
           "security": "reality",
           "realitySettings": {
-            "serverName": "cdn-us.cahmes.space",
+            "serverName": "rusamicro6.gangtype.com",
             "fingerprint": "safari",
-            "publicKey": "KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k",
-            "shortId": "6bd33a75ebc0f26e",
+            "publicKey": "v_vyazre_waQFN1iDyL-deNRJvoFBuokDcHCOCdiQ2A",
+            "shortId": "1cb833e7c85a788b",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇺🇸_США_—_Вашингтон_🧊_🌨️",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "187.54.12.146",
+              "port": 10455,
+              "users": [
+                {
+                  "id": "d27390ea-4177-4ee3-a3fe-2cf513f33f7d",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "addons.mozilla.org",
+            "fingerprint": "firefox",
+            "publicKey": "NoLIbCssob6T9HvprXBoNoYsZyDN650OViyAMePwp1c",
+            "shortId": "54cd1667f48828f9",
             "spiderX": ""
           },
           "xhttpSettings": {
-            "path": "/xhttp",
-            "host": "us-05.avroraservice.online",
-            "mode": "stream-one"
+            "path": "/api",
+            "host": "187.54.12.146"
+          }
+        }
+      },
+      {
+        "tag": "🇹🇷_->_🇺🇸_США_—_Секокус_🧊_🔔",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "153.56.230.77",
+              "port": 25155,
+              "users": [
+                {
+                  "id": "62995b2a-8f82-41f8-ac80-dfdfc1253e76",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "xhttp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "48688cr.us12.h1clayd.click",
+            "fingerprint": "firefox",
+            "publicKey": "I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM",
+            "shortId": "0ebb438948cdf356",
+            "spiderX": ""
+          },
+          "xhttpSettings": {
+            "path": "/astral-edge-h1",
+            "host": "us12.h1cloud.net"
+          }
+        }
+      },
+      {
+        "tag": "🇸🇬_Сингапур_⛄_🔔",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "206.206.78.36",
+              "port": 443,
+              "users": [
+                {
+                  "id": "e3f0c894-0f76-4683-a751-6a93da8fd14d",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "www.cloudflare.com",
+            "fingerprint": "chrome",
+            "publicKey": "UOLfRKeEoVxkp-APTF2OlvFkKSoiR2mWzUuhSWxcVmQ",
+            "shortId": "133a3f10a1581047",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇸🇬_Сингапур_⛄_🔔_2",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "140.245.113.33",
+              "port": 443,
+              "users": [
+                {
+                  "id": "f4ca59b2-767d-3425-8dfc-95a96a0e6802",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "learn.microsoft.com",
+            "fingerprint": "chrome",
+            "publicKey": "tF9nKF6amexok5wKbieQ2QRKQI5_ZTFE6MUj1hUBBkY",
+            "shortId": "c940a3b6d60b8611",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇷🇺_->_🇸🇬_Сингапур_⛄_🧤",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "94.228.167.18",
+              "port": 443,
+              "users": [
+                {
+                  "id": "9df9ee1a-0671-4c6c-93c7-65598fb946f7",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ruaesing656.gangplatform.com",
+            "fingerprint": "firefox",
+            "publicKey": "90uNUU-i14MO0VEIipqtK_Pk3xMhtDDDWtfcv_Y1X2s",
+            "shortId": "b0f28b824c4f18f5",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇷🇺_->_🇨🇭_Швейцария_—_Женева_⛄_⭐",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "193.233.89.130",
+              "port": 8443,
+              "users": [
+                {
+                  "id": "7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "grpc",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "g.play2go.gay",
+            "fingerprint": "safari",
+            "publicKey": "xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c",
+            "shortId": "",
+            "spiderX": ""
+          },
+          "grpcSettings": {
+            "serviceName": "grpc"
+          }
+        }
+      },
+      {
+        "tag": "🇩🇪_->_🇸🇪_Швеция_—_Стокгольм_🧊_🌨️",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "45.86.158.98",
+              "port": 443,
+              "users": [
+                {
+                  "id": "57a3fb3c-5788-4777-933e-882dd22f5b82",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "ba0648t.se1.h1clayd.click",
+            "fingerprint": "firefox",
+            "publicKey": "_c33IsYcvvy4t95zq8ydgtQ3pXpOK7eLdQqK3O7c2Ao",
+            "shortId": "b684dc4aaba4a911",
+            "spiderX": ""
+          }
+        }
+      },
+      {
+        "tag": "🇪🇪_Эстония_—_Таллин_⛄_🦌",
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "vexlum.klyck.online",
+              "port": 443,
+              "users": [
+                {
+                  "id": "de32225b-374c-4a6a-830e-7c4e367fcfb5",
+                  "encryption": "none",
+                  "flow": "xtls-rprx-vision"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "vexlum.klyck.online",
+            "fingerprint": "chrome",
+            "publicKey": "ocBBxRqpWdvUTfd6hRdEcOq7TtiHdQi65s5thInXjkw",
+            "shortId": "a503308602b56095",
+            "spiderX": ""
           }
         }
       },
@@ -1081,42 +1669,60 @@
         {
           "tag": "all-servers",
           "selector": [
-            "🇷🇺_Телега",
-            "🇬🇧_Британия_Белые_списки_🏳️",
-            "🇷🇺_Россия_IP🏳️",
-            "🇱🇹_Литва_🏳️",
-            "🇳🇱_Нидерланды_🏳️",
-            "🇩🇪_Германия_🏳️",
-            "🇧🇪_Бельгия_—_Heverlee",
-            "🇧🇾_Беларусь_—_Minsk",
-            "🇩🇪_Германия_—_Frankfurt_am_Main",
-            "🇪🇸_Испания_—_Barcelona",
-            "🇪🇸_Испания_—_Barcelona_2",
-            "🇪🇸_Испания_—_Barcelona_3",
-            "🇱🇻_Латвия_—_Riga",
-            "🇱🇻_Латвия_—_Riga_2",
-            "🇱🇻_Латвия_—_Riga_3",
-            "🇱🇻_Латвия_—_Riga_4",
-            "🇱🇻_Латвия_—_Riga_5",
-            "🇳🇱_Нидерланды_—_Amsterdam",
-            "🇳🇱_Нидерланды_—_Amsterdam_2",
-            "🇳🇱_Нидерланды_—_Amsterdam_3",
-            "🇳🇱_Нидерланды_—_Amsterdam_4",
-            "🇳🇱_Нидерланды_—_Amsterdam_5",
-            "🇳🇱_Нидерланды_—_Amsterdam_6",
-            "🇵🇱_Польша_—_Warsaw",
-            "🇷🇺_Россия_—_Moscow",
-            "🇷🇺_Россия_—_Moscow_2",
-            "🇸🇪_Швеция_—_Stockholm",
-            "🇸🇪_Швеция_—_Stockholm_2",
-            "🇺🇸_США_—_Chicago",
-            "🇺🇸_США_—_Chicago_2",
-            "🇺🇸_США_—_Chicago_3"
+            "🇺🇸_США_Gemini_🤖",
+            "🇳🇱_Нидерланды_⚡",
+            "🇫🇷_Франция_⚡_Youtube_📺",
+            "🇸🇪_⚡_Швеция_⚡_YT_📺_AI🤖",
+            "🇩🇪_Германия_⚡_Gemini_🤖",
+            "🇫🇮_Финляндия_⚡",
+            "🇪🇸_Испания_⚡_Gemini_🤖",
+            "🇫🇮_Финляндия_⚡_Gemini_🤖",
+            "🇫🇮_Финляндия_Youtube_📺",
+            "🇫🇮_Финляндия_⚡_2",
+            "🇫🇮_Финляндия_⚡_3",
+            "🇷🇺_->_🇦🇱_AL_—_Тирана_⛄_🦌",
+            "🇲🇩_MD_—_Центр_(сектор_Кишинёва)_🧊_🌨️",
+            "🇦🇲_Армения_—_Ереван_🧊_🌨️",
+            "🇧🇾_Беларусь_—_Минск_🧊_📶_🔔",
+            "🇯🇵_->_🇧🇷_Бразилия_—_Агломерация_Сан-Паулу_⛄_🔔",
+            "🇬🇧_Британия_—_Слау_⛄_🔔",
+            "🇩🇪_Германия_—_Франкфурт_⛄_🔔",
+            "🇩🇪_Германия_—_Франкфурт_⛄_📶_⭐",
+            "🇺🇦_->_🇩🇪_Германия_—_Франкфурт_🧊_🦌",
+            "🇭🇰_Гонконг_⛄_🧸",
+            "🇪🇸_Испания_—_Мадрид_⛄_🌨️",
+            "🇪🇸_Испания_—_Ойо-де-Мансанарес_🧊_📶_🧸",
+            "🇮🇹_Италия_—_Милан_⛄_📶_🦌",
+            "🇷🇺_->_🇰🇿_Казахстан_—_Астана_⛄_🦌",
+            "🇷🇺_->_🇨🇦_Канада_—_Монреаль_⛄_⭐",
+            "🇷🇺_->_🇳🇱_Нидерланды_—_Эйндховен_⛄_🧤",
+            "🇷🇺_->_🇳🇱_Нидерланды_—_Эйндховен_⛄_🧤_2",
+            "🇷🇺_->_🇳🇱_Нидерланды_—_Амстердам_⛄_🦌",
+            "🇷🇺_->_🇳🇱_Нидерланды_—_Амстердам_⛄_🧤",
+            "🇳🇱_Нидерланды_—_Алкмар_⛄_🌨️",
+            "🇳🇱_Нидерланды_—_Амстердам_⛄_📶_⭐",
+            "🇳🇱_Нидерланды_—_Амстердам_🧊_📶_⭐",
+            "🇳🇱_Нидерланды_—_Амстердам_🧊_🔔",
+            "🇳🇱_Нидерланды_—_Амстердам_🧊_📶_⭐_2",
+            "🇳🇱_Нидерланды_—_Амстердам_🧊_📶_🔔",
+            "🇮🇪_->_🇳🇱_Нидерланды_—_Керкраде_🧊_🦌",
+            "🇷🇴_Румыния_—_Бухарест_⛄_🌨️",
+            "🇨🇾_->_🇺🇸_США_—_Чикаго_⛄_🦌",
+            "🇺🇸_США_—_Вашингтон_⛄_🌨️",
+            "🇷🇺_->_🇺🇸_США_—_Даллас_⛄_📶_🧤",
+            "🇺🇸_США_—_Вашингтон_🧊_🌨️",
+            "🇹🇷_->_🇺🇸_США_—_Секокус_🧊_🔔",
+            "🇸🇬_Сингапур_⛄_🔔",
+            "🇸🇬_Сингапур_⛄_🔔_2",
+            "🇷🇺_->_🇸🇬_Сингапур_⛄_🧤",
+            "🇷🇺_->_🇨🇭_Швейцария_—_Женева_⛄_⭐",
+            "🇩🇪_->_🇸🇪_Швеция_—_Стокгольм_🧊_🌨️",
+            "🇪🇪_Эстония_—_Таллин_⛄_🦌"
           ],
           "strategy": {
             "type": "leastPing"
           },
-          "fallbackTag": "🇷🇺_Телега"
+          "fallbackTag": "🇺🇸_США_Gemini_🤖"
         }
       ],
       "rules": [
